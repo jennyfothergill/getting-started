@@ -1,8 +1,7 @@
 # Welcome to the Jankowski Lab!#
 
-This repository, and the associated wiki (<<<< click the button that looks like paper!) is 
-the one-stop shop for figuring out what to learn, where to go, and what to do when getting
-started in the Computational Materials Engineering Laboratory.
+This repository, and the associated wiki (<<<< click the button that looks like paper on 
+the sidebar!) is the one-stop shop for figuring out what to learn, where to go, and what to do when getting started in the Computational Materials Engineering Laboratory.
 
 Research in this lab happens in a lot of places. You'll be using software on your computer,
 computer clusters at Boise State, computer clusters at other schools, and managing projects
