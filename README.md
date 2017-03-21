@@ -48,5 +48,5 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 
 
 ### What is this repository missing? ###
-[can we link to another md file?](test.md)
+
 * How do I do ____?
