@@ -42,7 +42,10 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 * Python: http://swcarpentry.github.io/git-novice/
 
 ### Things I wish I knew when I started ###
-*
+* You learn by doing. 
+* Always celebrate the small wins. 
+* If you get stuck on a problem for more than an hour, don't be afraid to ask for help! 
+* It's okay to not know what is going on. 
 
 
 ### What is this repository missing? ###
