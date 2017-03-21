@@ -31,9 +31,11 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 ## The initial steps ##
 * Figure out how to open a terminal command prompt on your machine.
 * Get familiar with vim! The formatting below indicates a command to be run at that prompt.
+
     ```
     $ vimtutor
     ```
+
 * Bash: http://swcarpentry.github.io/shell-novice/
 * Git: http://swcarpentry.github.io/git-novice/ (This could be skipped and learned on the fly)
 * Python: http://swcarpentry.github.io/git-novice/
