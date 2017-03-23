@@ -1,0 +1,17 @@
+set background=dark
+colorscheme ir_black
+syntax enable
+set ts=4
+set sw=4
+set sts=4
+set expandtab
+set backspace=indent,eol,start
+set ai
+set ruler
+set nobackup
+set incsearch
+set number
+set cindent
+hi Comment ctermfg=cyan
+filetype plugin indent on
+

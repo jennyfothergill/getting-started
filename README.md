@@ -24,7 +24,6 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 
 ### Software  ###
 
-
 ### Getting paid ###
 
 ## The initial steps ##
@@ -50,3 +49,14 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 ### What is this repository missing? ###
 
 * How do I do ____?
+
+#### Helpful Configuration Files ####
+We utilize many different tools here, and we have found that the following configuration files are nice to get some of these tools to behave and look the way we want them to.
+Having these configurations aren't mandatory, and if you like something else, feel free to change or not use them.
+
+To install all of them, navigate into the config_files directory and simply type:
+
+    ```
+    $ make
+    ```
+
