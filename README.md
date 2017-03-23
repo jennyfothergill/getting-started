@@ -38,7 +38,7 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 * Bash: http://swcarpentry.github.io/shell-novice/
 * Git: http://swcarpentry.github.io/git-novice/ (This could be skipped and learned on the fly)
     * Use git to checkout this repository 
-* Python: http://swcarpentry.github.io/git-novice/
+* Python: http://swcarpentry.github.io/python-novice-inflammation/
 
 ### Things I wish I knew when I started ###
 * You learn by doing. 
