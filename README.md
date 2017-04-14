@@ -56,8 +56,8 @@ Having these configurations aren't mandatory, and if you like something else, fe
 
 To install all of them, navigate into the config_files directory and simply type:
 
-    ```
+```
 #!bash
-    $ make
-    ```
+$ make
+```
 
