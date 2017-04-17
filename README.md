@@ -24,6 +24,9 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 
 ### Software  ###
 
+VMD is used for visualizing the simulations:
+<http://www.ks.uiuc.edu/Research/vmd/>
+
 ### Getting paid ###
 
 ## The initial steps ##
@@ -60,4 +63,3 @@ To install all of them, navigate into the config_files directory and simply type
 #!bash
 $ make
 ```
-
