@@ -1,4 +1,4 @@
-# **Welcome to the CME Lab cheat sheet! In this cheat sheet you can expect to find common commands for the following: ** #
+# **Welcome to the Jankowskki Lab cheat sheet! In this cheat sheet you can expect to find common commands for the following: ** #
 
 
 
