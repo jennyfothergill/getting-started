@@ -27,6 +27,8 @@ In the beginning, you'll need to get a number of website accounts set up, get a 
 VMD is used for visualizing the simulations:
 <http://www.ks.uiuc.edu/Research/vmd/>
 
+[Avogadro](http://avogadro.cc/) is a program that is useful to build molecules. It can be downloaded [here](https://sourceforge.net/projects/avogadro/files/latest/download).
+
 ### Getting paid ###
 
 ## The initial steps ##
