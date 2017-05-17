@@ -1,4 +1,3 @@
-backend                 :   MacOSX
 
 # Increase the default DPI, and change the file type from png to pdf 
 savefig.dpi             :   600
