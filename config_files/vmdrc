@@ -73,5 +73,3 @@ set sname [format "$env(HOME)/Desktop/snip/snapshot-%0.3d.png" $number_snapshots
 render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white $env(HOME)/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
 incr number_snapshots 1
 }
-
-

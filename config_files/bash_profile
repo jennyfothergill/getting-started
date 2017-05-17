@@ -24,4 +24,3 @@ export PYTHONPATH=${HOME}/local/lib/python:${PYTHONPATH}
 #export TK_LIBRARY_DIR=/opt/local/lib
 #export PLUGINDIR=~/Projects/vmd/vmd/plugins
 #export NUMPY_INCLUDE_DIR=/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/numpy/core/include
-
