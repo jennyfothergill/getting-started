@@ -13,4 +13,3 @@ set incsearch
 set number
 set cindent
 hi Comment ctermfg=cyan
-filetype plugin indent on
