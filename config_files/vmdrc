@@ -67,6 +67,28 @@ user add key C {
 	incr hihi 1
 }
 
+# Modified movie making script from http://www.ks.uiuc.edu/Research/vmd/script_library/
+proc make_trajectory_movie {freq} {
+	# get the number of frames in the movie
+	set num [molinfo top get numframes]
+        #[molinfo top get numframes]
+	# loop through the frames
+        rotate x by 15
+        rotate y by 15
+        display resize 1920 1080
+        scale to 0.04    
+	for {set i 1} {$i < $num} {incr i $freq} {
+		# go to the given frame
+		animate goto $i
+                # for the display to update
+                display update
+                #scale to 0.05
+		# take the picture
+                set filename snap.[format "%04d" [expr $i/$freq]].png
+                render TachyonInternal vmdscene.tga convert vmdscene.tga -fuzz 0%  -transparent white $filename
+	}
+}
+
 set number_snapshots 0
 user add key d {
 set sname [format "$env(HOME)/Desktop/snip/snapshot-%0.3d.png" $number_snapshots ]
