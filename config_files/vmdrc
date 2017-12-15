@@ -68,6 +68,7 @@ user add key C {
 }
 
 # Modified movie making script from http://www.ks.uiuc.edu/Research/vmd/script_library/
+# use command ffmpeg -framerate 7 -i snap.%04d.png -c:v libx264 -r 30 -pix_fmt yuv420p out.mp4 to create movie
 proc make_trajectory_movie {freq} {
 	# get the number of frames in the movie
 	set num [molinfo top get numframes]
