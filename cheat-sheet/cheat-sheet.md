@@ -43,7 +43,7 @@ description after a dash ('-').  Keys with multiple letters (like 'tab' and
 *   Python lists start with index 0.  If a = [1,2,3,4], then 1 is stored in 
         a[0] and 4 is stored in a[3].
 *   Code 'scope' in python is defined by tabs.  For example, in the code below
-        The lines 'print x' and 'print y' will only be run if a==0.  They are 
+        The lines 'print(x)' and 'print(y)' will only be run if a==0.  They are 
         said to be in the scope of the if statement.  You may notice that 
         lines ending with a ':' are the ones that have blocks of code under
         their scope.
@@ -51,9 +51,9 @@ description after a dash ('-').  Keys with multiple letters (like 'tab' and
 ```
 #!python
 if a == 0:
-    print x
-    print y
-print z
+    print(x)
+    print(y)
+print(z)
 ```
 
 *   To install a new python package in your account only (in this example, the package is openpyxl):
