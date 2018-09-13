@@ -1,12 +1,13 @@
 display projection Orthographic
-display ambientocclusion off
 display rendermode GLSL
 display depthcue off
+#display resize 1300 1300
 display resize 800 800
-display reposition 600 850
+display reposition 600 0
+#display cuemode exp2
+#display cuedensity 0.20
 color Display Background white
 color Name A pink
-color Name N purple
 color Name B blue
 color Name C blue
 color Name D green
@@ -28,71 +29,63 @@ menu main move 100 650
 menu main on
 menu graphics on
 axes location Off
+display shadows on
+display ambientocclusion on
+display dof on
 
-set hihi 0
+set auto_path [concat "{$env(HOME)/vmd/plugins}" $auto_path]
+vmd_install_extension crystallography cryst_tk "Crystallography"
+
+#user add key D {
+#	gopython -command "import sys"
+#	gopython -command "sys.path.append('/Users/mattyjones/Projects/diffractometer')"
+#	gopython -command "import dm_interface"
+#}
+# user add key D {
+# 	gopython -command "import dm_interface"
+#     gopython
+# }
+
+set number_snapshots 0
 user add key D {
-	gopython -command "import dm_interface"
-    gopython
+rotate x by -90
+rotate y by -45
+rotate x by 30
+# rotate y by 45
+# rotate x by 40
+# rotate z by 180
+set sname [format "/home/mattyjones/Desktop/snapshot-%0.3d.png" $number_snapshots ]
+render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white /home/mattyjones/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
+incr number_snapshots 1
 }
 
 user add key P {
 pbc join res -bondlist -now
 }
 user add key R {
-	if { [expr $hihi % 2] == 0 } {
-        pbc wrap -center origin
-        pbc box -color black -center origin -width 6
-	}
-	if { [expr $hihi % 2] == 1 } {
-        pbc box -off
-	}
-	incr hihi 1
+pbc wrap -center origin
+pbc box -color black -center origin -width 6
 }
+set hihi 0
 user add key L {
-	if { [expr $hihi % 2] == 0 } {
+	if { [expr $hihi % 2] == 1 } {
 		color change rgb 0 0.1 0.1 1.0
 	}
-	if { [expr $hihi % 2] == 1 } {
+	if { [expr $hihi % 2] == 0 } {
 		color change rgb 0 0.1 0.7 1.0
 	}
 	incr hihi 1
 }
 user add key C {
-	if { [expr $hihi % 2] == 0 } {
-        mol modstyle 0 0 CPK 4.000000 1.000000 10.000000 10.000000
-	}
-	if { [expr $hihi % 2] == 1 } {
-        mol modstyle 0 0 VDW 1.000000 1.000000 
-	}
-	incr hihi 1
-}
-
-# Modified movie making script from http://www.ks.uiuc.edu/Research/vmd/script_library/
-# use command ffmpeg -framerate 7 -i snap.%04d.png -c:v libx264 -r 30 -pix_fmt yuv420p out.mp4 to create movie
-proc make_trajectory_movie {freq} {
-	# get the number of frames in the movie
-	set num [molinfo top get numframes]
-        #[molinfo top get numframes]
-	# loop through the frames
-        rotate x by 15
-        rotate y by 15
-        display resize 1920 1080
-        scale to 0.04    
-	for {set i 1} {$i < $num} {incr i $freq} {
-		# go to the given frame
-		animate goto $i
-                # for the display to update
-                display update
-                #scale to 0.05
-		# take the picture
-                set filename snap.[format "%04d" [expr $i/$freq]].png
-                render TachyonInternal vmdscene.tga convert vmdscene.tga -fuzz 0%  -transparent white $filename
-	}
+mol modstyle 0 0 CPK 4.000000 1.000000 10.000000 10.000000
 }
 
 set number_snapshots 0
 user add key d {
-set sname [format "$env(HOME)/Desktop/snip/snapshot-%0.3d.png" $number_snapshots ]
-render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white $env(HOME)/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
+set sname [format "/home/mattyjones/Desktop/snapshot-%0.3d.png" $number_snapshots ]
+render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white /home/mattyjones/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
+#render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white $sname"
+#render TachyonInternal vmdscene.tga "convert vmdscene.tga $sname"
+#render TachyonInternal vmdscene.tga "convert vmdscene.tga /home/mattyjones/Desktop/snapshot-$number_snapshots.png"
 incr number_snapshots 1
 }
