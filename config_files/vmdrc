@@ -36,16 +36,6 @@ display dof on
 set auto_path [concat "{$env(HOME)/vmd/plugins}" $auto_path]
 vmd_install_extension crystallography cryst_tk "Crystallography"
 
-#user add key D {
-#	gopython -command "import sys"
-#	gopython -command "sys.path.append('/Users/mattyjones/Projects/diffractometer')"
-#	gopython -command "import dm_interface"
-#}
-# user add key D {
-# 	gopython -command "import dm_interface"
-#     gopython
-# }
-
 set number_snapshots 0
 user add key D {
 rotate x by -90
@@ -54,8 +44,8 @@ rotate x by 30
 # rotate y by 45
 # rotate x by 40
 # rotate z by 180
-set sname [format "/home/mattyjones/Desktop/snapshot-%0.3d.png" $number_snapshots ]
-render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white /home/mattyjones/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
+set sname [format "$env(HOME)/Desktop/snapshot-%0.3d.png" $number_snapshots ]
+render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white $env(HOME)/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
 incr number_snapshots 1
 }
 
@@ -82,10 +72,7 @@ mol modstyle 0 0 CPK 4.000000 1.000000 10.000000 10.000000
 
 set number_snapshots 0
 user add key d {
-set sname [format "/home/mattyjones/Desktop/snapshot-%0.3d.png" $number_snapshots ]
-render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white /home/mattyjones/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
-#render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white $sname"
-#render TachyonInternal vmdscene.tga "convert vmdscene.tga $sname"
-#render TachyonInternal vmdscene.tga "convert vmdscene.tga /home/mattyjones/Desktop/snapshot-$number_snapshots.png"
+set sname [format "$env(HOME)/Desktop/snapshot-%0.3d.png" $number_snapshots ]
+render TachyonInternal vmdscene.tga "convert vmdscene.tga -fuzz 0% -trim -transparent white $env(HOME)/Desktop/snapshot-$number_snapshots.png; rm vmdscene.tga"
 incr number_snapshots 1
 }
