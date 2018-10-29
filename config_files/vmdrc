@@ -3,7 +3,7 @@ display rendermode GLSL
 display depthcue off
 #display resize 1300 1300
 display resize 800 800
-display reposition 600 0
+#display reposition 600 0
 #display cuemode exp2
 #display cuedensity 0.20
 color Display Background white
