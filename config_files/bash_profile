@@ -10,7 +10,7 @@ export DYLD_LIBRARY_PATH=/usr/local/cuda/lib:~/software/lib:${DYLD_LIBRARY_PATH}
 
 alias ll='ls -l'
 alias la='ls -la'
-alias vmd='rlwrap /Applications/VMD\ 1.9.2.app/Contents/MacOS/startup.command'
+alias vmd='rlwrap /Applications/VMD\ 1.9.3.app/Contents/MacOS/startup.command'
 export CLICOLOR=1
 export LSCOLORS="gxfxcxdxbxegedabagacad"
 #alias maverick='ssh USERNAME@maverick.tacc.utexas.edu'
