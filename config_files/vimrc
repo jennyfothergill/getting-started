@@ -13,3 +13,5 @@ set incsearch
 set number
 set cindent
 hi Comment ctermfg=cyan
+filetype on            " enables filetype detection
+filetype plugin on     " enables filetype specific plugins
