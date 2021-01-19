@@ -1,0 +1,8 @@
+"*If we knew what we were doing, it would be called work.*"
+
+Research is hard in part because we don't know what we're doing, and in part because because it requires the development of a variety of very different skills. 
+Doing research requires the ability to read primary literature, mathematical skills to check the assumptions people make, programming skills to perform mathematical checks that can't be done by hand, and knowledge of the fundamental fields of science that are foundational to your direction of research.
+Doing research *also* requires extreme patience and the ability to delay gratification, because for long long stretches it can feel like you're not making progress at all. Andrew Wiles, who won the Abel Prize in Mathematics for proving Fermat's Last Theorem, describes it like this:
+
+"*You enter the first room of the mansion and it’s completely dark. 
+You stumble around bumping into the furniture but gradually you learn where each piece of furniture is. Finally, after six months or so, you find the light switch, you turn it on, and suddenly it’s all illuminated. You can see exactly where you were. Then you move into the next room and spend another six months in the dark. So each of these breakthroughs, while sometimes they’re momentary, sometimes over a period of a day or two, they are the culmination of, and couldn’t exist without, the many months of stumbling around in the dark that precede them.*"

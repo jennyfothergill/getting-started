@@ -1,0 +1,18 @@
+Likes bicycles, a board game called "go", science, and teaching. Got his PhD in Chemical Engineering from the University of Michigan Ann Arbor in 2012. 
+
+* [Book a meeting with me by clicking here!](https://ericjankowski.youcanbook.me/) 
+* [Check out all Prof. Jankowski's papers here](https://scholar.google.com/citations?user=wvir8H4AAAAJ&hl=en)
+
+
+## Why I teach ##
+When I was a child my father attempted to teach me the ancient board game *go*, but I never found it to be enjoyable. My lack of enjoyment was in contrast to my father: He seemed to love the game, and I just couldn't understand *why*. After high school, I took it upon myself to learn go in secret, with the aim of beating my father before heading off for college. Back then, there weren't good internet resources for go, so I spent hours reading books that I had stolen from my father's library. At the end of the summer, I challenged my father to a game and he was delighted to accept. He gave me the largest number of handicap stones allowable in an attempt to level the playing field. I lost miserably. 
+
+I had not become a go prodigy overnight. But what I did learn *en route* was much more valuable: (1) I learned an appreciation for the game that my father was unable to communicate to me, and because of that (2) I learned that  **quality of teaching matters**, and (3) I learned that I could be my own teacher. 
+
+The same lesson played out again during college. I avoided computer programming because it was "hard", instead focusing on chemical engineering because it played to my perceived strengths of mathematics and chemistry. I had muddled through my one required C++/Matlab class my freshman year, and then stayed away from computers as much as possible because of how little I had enjoyed it. Later, I did an independent study in Sharon Glotzer's lab, mostly because I heard she gave an easy A and because I needed a technical elective to graduate. In her computational lab (much like ours!) we used computers to solve engineering, physics, and chemistry problems. All of a sudden I found myself *enjoying* programming because it gave me insight into questions about particle packing, entropy, and self-assembly that I hadn't been able to answer with pencil and paper. Again, I learned an appreciation for a skill that a prior teacher was unable to communicate to me, the importance of quality of teacher was reinforced to me, as was that I wasn't an awful teacher for myself. 
+
+For a variety of reasons I decided to stay on in Prof. Glotzer's lab for graduate school (OK, two reasons: Meghan was coming to Michigan for medical school and I didn't get in anywhere else). I started off in graduate school with a lot of reflecting on the good and bad teachers that I had had. I thought "Man... I'm pretty sure I can teach better than the bad teachers I've had before." And because you're not allowed to complain about things unless you can offer solutions, I figured that's what I should do: I should teach.
+
+Teaching is wrapped up in the efficiency theme of the lab. It's an engineering puzzle as difficult as any other: How do we most efficiently spend our time and effort to help those around us be able to solve difficult puzzles? It's the foundation that underlies our species' survival on this planet. *Teaching* is the only way we can ensure our kids can take the reigns and have a better shot at reducing suffering and increasing justice for all humankind.
+
+![P1015991.JPG](https://bitbucket.org/repo/oLqrB4B/images/2108777000-P1015991.JPG)
