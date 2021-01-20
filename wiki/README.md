@@ -40,7 +40,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 * [Wifi - Connecting to Eduroam](https://bitbucket.org/cmelab/raspberry-pi/wiki/WiFi%20-%20Connecting%20to%20Eduroam)
 
 ## Active Members who have noticed that they should add their name here ##
-[Eric Jankowski](https://github.com/cmelab/getting-started/blob/master/wiki/Prof.%20Jankowski) <- Schedule meetings
+[Eric Jankowski](https://github.com/cmelab/getting-started/blob/master/wiki/Prof.%20Jankowski.md) <- Schedule meetings
 
 1. Mone't Alberts 
 1. [Mike Henry](https://henrymike.com)
