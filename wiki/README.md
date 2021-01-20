@@ -58,6 +58,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 ## Active members working elsewhere ##
 
 [[Past Members]]
+1. Rachel Singleton
 
 ## [All of the getting-started Wiki Pages](https://bitbucket.org/cmelab/getting-started/wiki/browse/) ##
 
