@@ -40,7 +40,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 * [Wifi - Connecting to Eduroam](https://bitbucket.org/cmelab/raspberry-pi/wiki/WiFi%20-%20Connecting%20to%20Eduroam)
 
 ## Active Members who have noticed that they should add their name here ##
-[Eric Jankowski](https://bitbucket.org/cmelab/getting-started/wiki/Prof.%20Jankowski) <- Schedule meetings
+[Eric Jankowski](https://github.com/cmelab/getting-started/blob/master/wiki/Prof.%20Jankowski.md) <- Schedule meetings
 
 1. Mone't Alberts 
 1. [Mike Henry](https://henrymike.com)
@@ -53,6 +53,9 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 1. Mia Klopfenstein
 1. Mitchell Leibowitz
 1. Jimmy Rushing
+1. Cody LaCoursiere
+1. Rainier Barrett
+
 
 ## Active members who have not noticed they should add their names above ##
 
