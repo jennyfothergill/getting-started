@@ -49,7 +49,6 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 1. Chris Jones
 1. Bryton Anderson
 1. Kendra Noneman 
-1. Rachel Singleton
 1. Mia Klopfenstein
 1. Mitchell Leibowitz
 
