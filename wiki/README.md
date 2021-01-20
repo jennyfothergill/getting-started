@@ -52,6 +52,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 1. Rachel Singleton
 1. Mia Klopfenstein
 1. Mitchell Leibowitz
+1. Emily Elliston
 1. Gwen White
 1. Jimmy Rushing
 1. Cody LaCoursiere
