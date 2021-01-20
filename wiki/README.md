@@ -52,8 +52,11 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 1. Rachel Singleton
 1. Mia Klopfenstein
 1. Mitchell Leibowitz
+<<<<<<< HEAD
+1. Cody LaCoursiere
 1. Rainier Barrett
 
+>>>>>>> c90549200cc2f75b303bac2855dfa2dcb882a1a6
 
 ## Active members who have not noticed they should add their names above ##
 
