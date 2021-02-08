@@ -149,11 +149,4 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 4. Hit `enter`to install conda in default location
 5. Type `yes` to prepend your path with the conda install location
 
-In order to use `conda` after installation, you will have to reload your bash profile by typing `source ~/.bashrc`. This is only necessary in terminal windows that were already open before conda was installed - new terminal windows will already have `conda` added correctly to your path variable. To verify that the install worked, see if the output of `which python` looks something like `/home/<username>/miniconda3/bin/python` 
-
-
-TODO:
-
-* Test if gsd plugin works for other users
-* Maybe change order to install default rc files? I can put them into /etc/skel/
-* Add Avogadro info, or a link out to other medium-frequency programs?
+In order to use `conda` after installation, you will have to reload your bash profile by typing `source ~/.bashrc`. This is only necessary in terminal windows that were already open before conda was installed - new terminal windows will already have `conda` added correctly to your path variable. To verify that the install worked, see if the output of `which python` looks something like `/home/<username>/miniconda3/bin/python`
