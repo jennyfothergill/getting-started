@@ -15,4 +15,3 @@ For a variety of reasons I decided to stay on in Prof. Glotzer's lab for graduat
 
 Teaching is wrapped up in the efficiency theme of the lab. It's an engineering puzzle as difficult as any other: How do we most efficiently spend our time and effort to help those around us be able to solve difficult puzzles? It's the foundation that underlies our species' survival on this planet. *Teaching* is the only way we can ensure our kids can take the reigns and have a better shot at reducing suffering and increasing justice for all humankind.
 
-![P1015991.JPG](https://bitbucket.org/repo/oLqrB4B/images/2108777000-P1015991.JPG)

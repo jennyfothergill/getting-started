@@ -17,3 +17,7 @@ Roughly ordered by year of departure:
 1. Evan Miller - Data scientist at Sorenson Communications
 1. Jaime Guevara
 1. Kylee Lay
+1. Rachel Singleton
+1. Mone't Alberts 
+1. [Mike Henry](https://henrymike.com)
+1. Kendra Noneman 
