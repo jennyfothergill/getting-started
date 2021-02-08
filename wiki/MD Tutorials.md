@@ -15,6 +15,3 @@ Glad you wish to learn molecular dynamics (MD). This page is a repository for no
 ### Other frequently used MD simulations.. ###
 * [Equilibriation of an NVT ensemble](https://nbviewer.jupyter.org/urls/bitbucket.org/cmelab/mse597-materials-modeling/raw/2d29c9743652191b70c8dab577f7d22b9b72f61e/project3/Notebook%20II.ipynb)
 * [Equilibriation of an NPH ensemble](https://nbviewer.jupyter.org/urls/bitbucket.org/cmelab/mse597-materials-modeling/raw/2d29c9743652191b70c8dab577f7d22b9b72f61e/project3/Notebook%20III.ipynb)
-
-### Typical simulations specific to projects ###
-* Epoxide related stuff <-- TODO: add this section.

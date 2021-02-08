@@ -61,6 +61,3 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 [[Past Members]]
 
 ## [All of the getting-started Wiki Pages](https://bitbucket.org/cmelab/getting-started/wiki/browse/) ##
-
-##TODO##
-Page needs some description and pointers of the *science* we do. Also need some framing for how to think about projects.
