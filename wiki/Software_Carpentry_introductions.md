@@ -12,3 +12,4 @@ The Jankowski lab is involved with [Software Carpentry](https://software-carpent
 * Step 2: [Bash](https://mse150s17.bitbucket.io/shell/)
 * Step 3: [Python](https://mse150s17.bitbucket.io/python/)
 * Step 4: [Git](https://mse150s17.bitbucket.io/git/)
+* Step 5: [Conda](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/)
