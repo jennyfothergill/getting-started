@@ -53,11 +53,6 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 1. Cody LaCoursiere
 1. Rainier Barrett
 
-
-## Active members who have not noticed they should add their names above ##
-
-## Active members working elsewhere ##
-
-[[Past Members]]
+[[Past Members]](Past_Members.md)
 
 ## [All of the getting-started Wiki Pages](https://bitbucket.org/cmelab/getting-started/wiki/browse/) ##
