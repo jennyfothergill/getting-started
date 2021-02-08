@@ -42,7 +42,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 ## Active Members who have noticed that they should add their name here ##
 [Eric Jankowski](Prof_Jankowski.md) <- Schedule meetings
 
-1. Neale Ellyson
+1. [Neale Ellyson](https://github.com/nealeellyson)
 1. [Jenny Fothergill](https://github.com/jennyfothergill)
 1. Chris Jones
 1. Bryton Anderson
