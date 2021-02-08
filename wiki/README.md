@@ -11,7 +11,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 
 ## In the beginning
 * [Web accounts](Web_accounts.md)  <- Do this first!
-* [Software Carpentry introductions](Software_Carpentry_introducion.md)  <- Do this second!
+* [Software Carpentry introductions](Software_Carpentry_introducions.md)  <- Do this second!
 * [Accounts for computer clusters](Accounts_for_computer_clusters.md) <- Not urgent until you need a big computer.
 * [Chromebook Checkout](https://docs.google.com/spreadsheets/d/1q09wjk9HKtRtBNhU_heKF84a3awLpIyzw9q8gPIXRqA/edit?usp=sharing)
 * [Installing the Frequently-Used Programs for CME-Lab](Installing_the_Frequently-Used_Programs_for_CME-Lab.md)
