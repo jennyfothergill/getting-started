@@ -51,7 +51,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 1. Emily Elliston
 1. Gwen White
 1. Jimmy Rushing
-1. Cody LaCoursiere
+1. Cody LaCoursiere!
 1. Rainier Barrett
 
 [Past Members](Past_Members.md)
