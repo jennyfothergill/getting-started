@@ -5,6 +5,10 @@ You can check if you already have an SSH public/private key pair by running
 ls ~/.ssh
 ```
 If you see `id_rsa` and `id_rsa.pub` then *do not* generate a new key.
+ Use the command $ cat id_rsa.pub 
+ This will spit out your key. Copy and paste that into your account's ssh key that is located in your account settings on github.
+ * just as a side note name you ssh key something that is related to the computer you are connecting to. Example "CMELAB Chrome Book"
+
 You can generate a new SSH key using:
 ```bash
 $ ssh-keygen -t rsa -b 4096 -C "user_name@email.com"
