@@ -28,7 +28,6 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 * [Running jobs on our clusters](Running_jobs_on_our_clusters.md)
 * [Slack](Slack.md)
 * [Jupyter Notebooks](Jupyter_Notebooks.md)
-* [Wiki Features](Wiki_Features.md) - How to edit pages here
 * [Gigantic list of programming websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [How to start a new project](How_to_start_a_new_project.md)
 
