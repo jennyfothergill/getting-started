@@ -44,14 +44,14 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 
 1. [Neale Ellyson](https://github.com/nealeellyson)
 1. [Jenny Fothergill](https://github.com/jennyfothergill)
-1. Chris Jones
-1. Bryton Anderson
-1. Mia Klopfenstein
-1. Emily Elliston
-1. Gwen White
+1. [Chris Jones](https://github.com/chrisjonesBSU)
+1. [Bryton Anderson](https://github.com/bryton91)
+1. [Mia Klopfenstein](https://github.com/miaklop)
+1. [Emily Elliston](https://github.com/emilyepstein)
+1. [Gwen White](https://github.com/gwenwhite)
 1. [Jimmy Rushing](https://github.com/JimmyRushing)
-1. Cody LaCoursiere!
-1. Rainier Barrett
+1. [Cody LaCoursiere](https://github.com/CodyLacoursiere)
+1. [Rainier Barrett](https://github.com/RainierBarrett)
 
 [Past Members](pages/Past_Members.md)
 
