@@ -6,7 +6,7 @@ This guide is intended to help the reader set up a brand new Chromebook to the l
 
 In this guide, we will activate developer mode on the machine, remove the write protection from the boot loader, and install a Linux operating system (GalliumOS) onto the machine.
 
-If you already have GalliumOS on your Chromebook - you're in the wrong place! Check [[Previously Used Chromebook With GalliumOS]] to find out how to set up your account and the programs you need to work in the cme-lab.
+If you already have GalliumOS on your Chromebook - you're in the wrong place! Check [Creating a New Chromebook User Profile](Creating_a_New_Chromebook_User_Profile.md) to find out how to set up your account and the programs you need to work in the cme-lab.
 
 ## Check the Chromebook Works Correctly
 
