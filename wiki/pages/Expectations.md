@@ -2,7 +2,7 @@
 
 In this lab, we endeavor to as efficiently as possible improve the world. The mechanisms by which we do this are pretty normal for a research lab: We discover things that will help us make the world better, and we tell those things to the rest of the world. In order to do this as efficiently as possible, we expect:
 
-* Inclusivity. Above all, be nice. See also: [[Code of Conduct]].
+* Inclusivity. Above all, be nice. See also: [Code of Conduct](Code_of_Conduct.md).
 * Timeliness. Clocks and calendars are sacred. If you will miss a meeting or deadline, let the appropriate people know, early enough so it won't cause other people problems.
 * Making lots of mistakes. Mistakes are how learning happens. Make as many of them as you can, as quickly as possible.
 * Learning. Endeavor to make each mistake only once. 
