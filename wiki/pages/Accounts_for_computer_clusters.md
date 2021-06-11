@@ -10,14 +10,13 @@ Everyone in the lab can access Kestrel.
 # R2 #
 Everyone in the lab can access R2.
 
-* Request an account by emailing system administrators <tylerbevan@boisestate.edu> or <kellybyrne1@boisestate.edu>
+* Request an account by emailing system administrator: Kelly Byrne <kellybyrne1@boisestate.edu>
 
 # XSEDE #
 Everyone in the lab can access XSEDE resources (with some caveats).
 You'll need to make an account at <https://www.xsede.org/>, which will be used to manage access to:
 
-* [XStream](http://xstream.stanford.edu/)
-* [Maverick](https://portal.tacc.utexas.edu/user-guides/maverick)
+* [Bridges2](https://www.psc.edu/resources/bridges-2/user-guide-2/)
 
 # Blue Waters #
 Currently, only Blue Waters Fellows can access BlueWaters.
