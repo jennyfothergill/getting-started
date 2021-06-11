@@ -1,4 +1,4 @@
-# I just took the Chromebook out of the Box! #
+# I just took the Chromebook out of the Box!
 
 Congratulations! Isn't it beautiful?
 
@@ -8,11 +8,11 @@ In this guide, we will activate developer mode on the machine, remove the write 
 
 If you already have GalliumOS on your Chromebook - you're in the wrong place! Check [[Previously Used Chromebook With GalliumOS]] to find out how to set up your account and the programs you need to work in the cme-lab.
 
-##Check the Chromebook Works Correctly##
+## Check the Chromebook Works Correctly
 
 1. Initially, the battery may be uncharged. Plug it in, boot it up and check that everything powers up correctly. You do not need to set up wifi or create an account here - if everything looks like it's working, then simply power down and move on to the next stage.
 
-##Activate Developer Mode##
+## Activate Developer Mode
 
 1. Firstly, reboot into Recovery mode by holding down the `Esc` and `Refresh` keys (where `F3` normally is), then quickly pressing the `power` button.
 
@@ -26,7 +26,7 @@ If you already have GalliumOS on your Chromebook - you're in the wrong place! Ch
 
 If these instructions are insufficient, a more in-depth guide on how to enable developer mode can be found at: <https://www.howtogeek.com/210817/how-to-enable-developer-mode-on-your-chromebook/>
 
-##Check Developer Mode Works##
+## Check Developer Mode Works
 
 EDITOR'S NOTE: In this section, you will use a command that effectively downloads a random script from somewhere online and runs it as a superuser. While the command in this guide is safe to run, be EXTREMELY careful and never run random scripts as a superuser without thoroughly checking what it does first. Malicious code can easily brick your device or completely compromise your security - both of these are very bad.
 
@@ -49,7 +49,7 @@ EDITOR'S NOTE: In this section, you will use a command that effectively download
 
 1. In order to install the Linux distribution, we need to disable the firmware write protection, which requires the removal of two screws from the motherboard. Before reaching for your screwdriver (a 2mm Phillips screwdriver should be perfect),  make sure everything is powered down and unplugged. Typing `Shift-P`, `Enter` from the firmware utility script should power down the Chromebook.
 
-##Remove Write Protect Screws##
+## Remove Write Protect Screws
 
 1. Turn the Chromebook over and remove the 10 back-plate screws highlighted in the following image, putting them safely to one side. The two at the top (highlighted in blue) are longer than the other 8 (highlighted in red), which are identical.
 
@@ -67,7 +67,7 @@ EDITOR'S NOTE: In this section, you will use a command that effectively download
 
     ![fwwpOff](http://i.imgur.com/PMBw0n5.png)
 
-##Install New Firmware##
+## Install New Firmware
 
 We will now install the new Firmware that permits an alternative operating system to be installed on the Chromebook.
 
@@ -76,8 +76,6 @@ We will now install the new Firmware that permits an alternative operating syste
     ![firmware1](http://i.imgur.com/BOetEpf.png)
 
 1. After it has completed, press `Enter` again to return to the main menu.
-
-
 
 1. Hit `6`, `y`, and `Enter` to remove the ChromeOS bitmaps that show on boot.
 
@@ -89,13 +87,13 @@ We will now install the new Firmware that permits an alternative operating syste
 
   ![firmware3](http://i.imgur.com/NWzMsVA.png)
 
-##Create Bootable GalliumOS USB##
+## Create Bootable GalliumOS USB
 
 It is extremely likely that we will have the bootable USB flash drive that you need kicking around the lab somewhere, so ask first!
 
 In the event that nobody has one, download the ISO from [https://galliumos.org/releases/2.1/TORRENTS/galliumos-braswell-2.1.iso.torrent](https://galliumos.org/releases/2.1/TORRENTS/galliumos-braswell-2.1.iso.torrent), and use the excellent guide on the Gallium wiki at [https://wiki.galliumos.org/Installing/Creating_Bootable_USB](https://wiki.galliumos.org/Installing/Creating_Bootable_USB) to create the boot disk.
 
-##Installing GalliumOS##
+## Installing GalliumOS
 
 1. Plug in the GalliumOS bootable USB drive and reboot the Chromebook (If you still have the utility script open, you can do this by typing `Shift-R`, `Enter`).
 
