@@ -4,10 +4,10 @@ You need more power, and here in the CMELab, we have access to power in absolute
 The following guide will help you get set up on our main supercomputers, and allow you to hit insane TPSes that will make you feel like nothing short of a molecular dynamics deity.
 
 
-If you are unsure what 'TPS' stands for and why we want so many of them, you should have a look at the HOOMD tutorials in [[MD Tutorials]] first before looking at this guide.
+If you are unsure what 'TPS' stands for and why we want so many of them, you should have a look at the HOOMD tutorials in [MD Tutorials](MD_Tutorials.md) first before looking at this guide.
 
 
-Also, you'll need accounts on our supercomputing clusters - take a look at [[Accounts for computer clusters]] to get set up on Fry and Kestrel.
+Also, you'll need accounts on our supercomputing clusters - take a look at [Accounts for computer clusters](Accounts_for_computer_clusters.md) to get set up on Fry and Kestrel.
 
 
 # What is a job scheduler and which one am I using? #
