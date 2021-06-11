@@ -7,7 +7,7 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
     * [Computational Scientist Skills](pages/Computational_Scientist_Skills.md)
 * [Research](pages/Research.md)
 * [Getting a PhD](pages/Getting_Started_With_Conda.md)
-* [CMELab Pad of Pads](pages/https://etherpad.boisestate.edu/p/cmelab-pad-of-pads)
+* [CMELab Pad of Pads](https://etherpad.boisestate.edu/p/cmelab-pad-of-pads)
 
 ## In the beginning
 * [Web accounts](pages/Web_accounts.md)  <- Do this first!
