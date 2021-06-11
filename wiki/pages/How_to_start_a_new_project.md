@@ -2,7 +2,7 @@ This is a high level overview on how to start a new project in the CME lab.
 
 ### 1. Make a new folder
 
-  To keep things organized, I like to make a new folder for each project in a `Projects` folder in my home, so if you wanted to name your project something like `dna_cg` for a coarse-grain DNA project, you would use this command: 
+  To keep things organized, make a new folder where you'll keep your projects (I use a `Projects` folder in my home), so if you wanted to name your project something like `dna_cg` for a coarse-grain DNA project, you would use this command: 
   ```
   mkdir ~/Projects/dna_cg
   ```
@@ -19,7 +19,7 @@ This is a high level overview on how to start a new project in the CME lab.
 ### 3. Create and commit your first file
 
   A good first file to create is a "README" file which describes your project.
-  In the early stages of a project I like to use the README to keep track of ideas and outline what I want to do.
+  In the early stages of a project you can use the README to keep track of ideas and outline what you want to do.
   Fire up your favorite text editor and create the README file, `vim README.md`
   Now that we've made our README file, lets add it to our git repo.
   
