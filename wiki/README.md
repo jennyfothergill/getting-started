@@ -20,7 +20,6 @@ Also known as the Computational Materials Engineering Lab (CMELab), our lab uses
 * More [python](http://bit.ly/2tBTW7W) - (PDF book download)
 * [Getting Started With Conda](pages/Getting_Started_With_Conda.md)
 * [Setting up a new Chromebook](pages/Setting_up_a_new_Chromebook.md)
-* [Setting up New Chromebook](pages/Setting_up_New_Chromebook.md)
 * [Setting up an OSX Computer](pages/Setting_up_an_OSX_Computer.md)
 * [Setting Up an Account on a Mac Laptop](pages/Setting_Up_an_Account_on_a_Mac_Labtop.md)
 * [MD Tutorials](pages/MD_Tutorials.md)
