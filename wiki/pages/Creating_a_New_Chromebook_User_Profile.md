@@ -1,12 +1,12 @@
-# This machine already has GalliumOS on it, but I don't have an account! #
+# This machine already has GalliumOS on it, but I don't have an account!
 
 This guide explains how to make an account on the Chromebook you would like to use.
 
-In order to complete this guide, the GalliumOS Linux distribution must already be installed on your device (you should see a GalliumOS splash screen on boot). If you do not see this screen, or there is any other indication that your Chromebook is running ChromeOS instead, please follow the steps at [[Brand New Chromebook from the Box]] in order to install Linux.
+In order to complete this guide, the GalliumOS Linux distribution must already be installed on your device (you should see a GalliumOS splash screen on boot). If you do not see this screen, or there is any other indication that your Chromebook is running ChromeOS instead, please follow the steps at [Brand New Chromebook from the Box](Brand_New_Chromebook_from_the_Box.md) in order to install Linux.
 
-If another cme-lab user has already used your Chromebook, the main, frequently-used programs should be available to you on your account, however if you are the first user of the device, or find some of those programs missing, please check out the guide at [[Installing the Frequently-Used Programs for CME-Lab]] to get set up!
+If another cme-lab user has already used your Chromebook, the main, frequently-used programs should be available to you on your account, however if you are the first user of the device, or find some of those programs missing, please check out the guide at [Installing the Frequently-Used Programs for CME-Lab](Installing_the_Frequently-Used_Programs_for_CME-Lab.md) to get set up!
 
-## Getting your user account set up ##
+## Getting your user account set up
 
 This guide will detail the steps required to take a Chromebook with a fresh installation of GalliumOS and turn it into science-doing device!
 
@@ -46,4 +46,4 @@ This guide will detail the steps required to take a Chromebook with a fresh inst
 
     ![Wifi Settings](http://i.imgur.com/81xDgWU.png)
 
-Your user account has now been created! If Cisco Anyconnect, the lab "dot config files", VMD, or Conda are not installed on your device, then please see the guide at [[Installing the Frequently-Used Programs for CME-Lab]] to set them up.
+Your user account has now been created! If Cisco Anyconnect, the lab "dot config files", VMD, or Conda are not installed on your device, then please see the guide at [Installing the Frequently-Used Programs for CME-Lab](Installing_the_Frequently-Used_Programs_for_CME-Lab.md) to set them up.
